@@ -4,8 +4,8 @@ This GitHub repository contains a comprehensive project on Loan Approval Predict
 
 ## Libraries Used
 
-"*"Pandas: Data manipulation and analysis.
-"*"NumPy: Numerical operations on arrays.
-"*"Seaborn: Data visualization.
-"*"Matplotlib: Data Visualisation
-"*"Scikit-learn (sklearn): Machine learning algorithms and tools.
+* Pandas: Data manipulation and analysis.
+* NumPy: Numerical operations on arrays.
+* Seaborn: Data visualization.
+* Matplotlib: Data Visualisation
+* Scikit-learn (sklearn): Machine learning algorithms and tools.
